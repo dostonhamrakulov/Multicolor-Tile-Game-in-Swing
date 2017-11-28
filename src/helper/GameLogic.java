@@ -1,3 +1,6 @@
+//Created by DOston Hamrakulov
+//10.10.2017 in Riga, Latvia
+
 package helper;
 
 import GUI.UIHelper;
