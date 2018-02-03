@@ -3,7 +3,7 @@
 
 package helper;
 
-import GUI.UIHelper;
+import GUI.GUI.UIHelper;
 
 import javax.swing.*;
 import java.util.HashSet;

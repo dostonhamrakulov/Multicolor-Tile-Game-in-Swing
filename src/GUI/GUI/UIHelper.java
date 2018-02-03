@@ -1,7 +1,7 @@
 //Created by DOston Hamrakulov
 //10.10.2017 in Riga, Latvia
 
-package GUI;
+package GUI.GUI;
 
 import helper.GameConstants;
 import helper.GameLogic;

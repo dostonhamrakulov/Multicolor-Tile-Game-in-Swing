@@ -1,7 +1,7 @@
 //Created by DOston Hamrakulov
 //10.10.2017 in Riga, Latvia
 
-import GUI.GameStarter;
+import GUI.GUI.GameStarter;
 
 public class Main {
 	
